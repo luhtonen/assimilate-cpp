@@ -45,3 +45,8 @@ To execute compile program execute this:
 ```bash
 ./calculator.app
 ```
+
+## Lesson 2
+
+* Can I speed up compilation? Why do I need all of this terminal commands? Can use a `Makefile`?
+* Build a phrase repeater in C++.
