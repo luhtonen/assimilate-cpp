@@ -3,10 +3,15 @@ Build C++ template
 
 ## Lesson 1
 
-[Reference VS Code Docs](https://code.visualstudio.com/docs/languages/cpp)
-[Codespaces for C++](https://devblogs.microsoft.com/cppblog/customizing-github-codespaces-for-cpp-projects/)
+### Getting started
 
-* Build a hello world C++
+[Reference VS Code Docs](https://code.visualstudio.com/docs/languages/cpp)<br>
+[Codespaces for C++](https://devblogs.microsoft.com/cppblog/customizing-github-codespaces-for-cpp-projects/)<br>
+[Microsoft C++ Tutorials](https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170)
+
+
+#### Build a hello world C++
+
 * create `helloworld.cpp` with the following content:
 ```cpp
 #include <iostream>
@@ -27,4 +32,16 @@ Alternatevely can do the following:
 ```bash
 clang++ helloworld.cpp -o helloworld.app
 ./helloworld.app
+```
+
+### Build a console calculator app in C++
+
+To compile execute following command:
+```bash
+clang++ CalculatorTutorial.cpp Calculator.cpp -o calculator.app
+```
+
+To execute compile program execute this:
+```bash
+./calculator.app
 ```
