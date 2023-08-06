@@ -5,6 +5,7 @@ Build C++ template
 
 ### Getting started
 
+__References:__
 [Reference VS Code Docs](https://code.visualstudio.com/docs/languages/cpp)<br>
 [Codespaces for C++](https://devblogs.microsoft.com/cppblog/customizing-github-codespaces-for-cpp-projects/)<br>
 [Microsoft C++ Tutorials](https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170)
@@ -50,3 +51,7 @@ To execute compile program execute this:
 
 * Can I speed up compilation? Why do I need all of this terminal commands? Can use a `Makefile`?
 * Build a phrase repeater in C++.
+
+__References:__
+[Simple C++ Makefile](https://stackoverflow.com/questions/2481269/how-to-make-a-simple-c-makefile)
+[Clang Static Analyzer v11](https://releases.llvm.org/11.0.1/tools/clang/docs/ClangStaticAnalyzer.html)
