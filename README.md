@@ -1,3 +1,5 @@
+[![C++ CI](https://github.com/luhtonen/assimilate-cpp/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/luhtonen/assimilate-cpp/actions/workflows/c-cpp.yml)
+
 # assimilate-cpp
 Build C++ template
 
