@@ -61,3 +61,29 @@ __References:__
 ## Lesson 3
 
 TODO: how to make static anlysis working for build system?
+
+__References:__
+[Configure VS Code for Microsoft C++](https://code.visualstudio.com/docs/cpp/config-msvc)
+
+* `mkdir projects && cd $_`
+* `touch helloworld.cpp`
+* paste following code inside:
+```cpp
+#include <iostream>
+#include <vector>
+#include <string>
+
+using namespace std;
+
+int main()
+{
+    vector<string> msg {"Hello", "C++", "World", "from", "VS Code", "and the C++ extension!"};
+
+    for (const string& word : msg)
+    {
+        cout << word << " ";
+    }
+    cout << endl;
+}
+```
+* run with play button
