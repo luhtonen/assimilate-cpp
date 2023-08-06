@@ -57,3 +57,7 @@ To execute compile program execute this:
 __References:__
 [Simple C++ Makefile](https://stackoverflow.com/questions/2481269/how-to-make-a-simple-c-makefile)
 [Clang Static Analyzer v11](https://releases.llvm.org/11.0.1/tools/clang/docs/ClangStaticAnalyzer.html)
+
+## Lesson 3
+
+TODO: how to make static anlysis working for build system?
